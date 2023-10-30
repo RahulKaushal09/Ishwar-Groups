@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF0000;}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+<g>
+	<path class="st0" d="M682.5,182l296.78,203.5L683,586L386.72,385.5L682.5,182z M683.5,530.15l215.39-145.76L683.14,236.45
+		L468.11,384.39L683.5,530.15z"/>
+</g>
+<rect x="657.5" y="369" class="st0" width="51" height="172"/>
+<radialGradient id="SVGID_1_" cx="682.6659" cy="359.6955" r="103.9939" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFE800"/>
+	<stop  offset="0.5812" style="stop-color:#FFE800;stop-opacity:0.6"/>
+	<stop  offset="1" style="stop-color:#FFFF00;stop-opacity:0"/>
+</radialGradient>
+<path class="st1" d="M778,358c0-52.47-42.53-95-95-95s-95,42.53-95,95H778z"/>
+<path class="st0" d="M639,358c0-23,19.7-41.64,44-41.64S727,335,727,358H639z"/>
+<rect x="599.01" y="353.65" class="st0" width="34.56" height="4.35"/>
+<rect x="733.01" y="353.65" class="st0" width="34.56" height="4.35"/>
+<path class="st0" d="M635,345"/>
+<polygon class="st0" points="634,349 635,346.03 616.29,341.58 "/>
+<polygon class="st0" points="637,341 615,331 638,338 639,338.13 "/>
+<polygon class="st0" points="641,334 611,313 644,330 "/>
+<polygon class="st0" points="648,327 635,311.46 651,324 "/>
+<polygon class="st0" points="654,321 636,286 660,318 "/>
+<polygon class="st0" points="664,316 658,292 669,314 "/>
+<polygon class="st0" points="673.95,313 673.95,279.39 680,312 "/>
+<polygon class="st0" points="685,312 692,270 692,313 "/>
+<polygon class="st0" points="697,314 711,295 701.46,316 "/>
+<polygon class="st0" points="706,318 733.83,295 711,320.65 "/>
+<polygon class="st0" points="715,324 732.6,316.36 719,328 "/>
+<polygon class="st0" points="723.8,332.99 755,327 727,337.8 "/>
+<polygon class="st0" points="729,344 751,346 731,349 "/>
+</svg>
